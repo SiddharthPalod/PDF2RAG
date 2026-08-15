@@ -1,0 +1,26 @@
+# PDF Embeddings App - Our project (extract + OCR + BLIP + embeddings)
+# Core API
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+
+# PDF and image extraction
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+
+# BLIP-2 captioning
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Text embeddings
+sentence-transformers>=2.2.0
+
+# Export
+pandas>=2.0.0
+openpyxl>=3.1.0
+requests

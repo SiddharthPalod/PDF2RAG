@@ -1,0 +1,8 @@
+# RAG Pipeline — Our Project
+# Runtime dependencies for rag/scripts/chat, rag/scripts/db, and rag/scripts/search.
+# sentence-transformers is provided via the shared embedding_service in pdf-embeddings-app/backend.
+# Install that project's requirements.txt first, then install this file.
+
+chromadb
+ollama
+sentence-transformers>=2.2.0
