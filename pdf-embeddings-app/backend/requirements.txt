@@ -12,7 +12,7 @@ opencv-python-headless>=4.8.0
 numpy>=1.24.0
 
 # BLIP-2 captioning
-torch>=2.0.0
+torch>=2.13.0
 torchvision>=0.15.0
 transformers>=4.30.0
 accelerate>=0.20.0
