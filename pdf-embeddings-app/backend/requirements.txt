@@ -1,6 +1,6 @@
 # PDF Embeddings App - Our project (extract + OCR + BLIP + embeddings)
 # Core API
-fastapi>=0.100.0
+fastapi>=0.141.1
 uvicorn[standard]>=0.22.0
 python-multipart>=0.0.6
 
