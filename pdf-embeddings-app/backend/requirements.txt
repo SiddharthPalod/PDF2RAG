@@ -13,7 +13,7 @@ numpy>=1.24.0
 
 # BLIP-2 captioning
 torch>=2.0.0
-torchvision>=0.15.0
+torchvision>=0.28.0
 transformers>=4.30.0
 accelerate>=0.20.0
 
