@@ -2,7 +2,7 @@
 # Core API
 fastapi>=0.100.0
 uvicorn[standard]>=0.22.0
-python-multipart>=0.0.6
+python-multipart>=0.0.32
 
 # PDF and image extraction
 PyMuPDF>=1.23.0
