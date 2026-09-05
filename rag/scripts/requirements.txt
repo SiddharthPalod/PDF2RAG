@@ -5,4 +5,4 @@
 
 chromadb
 ollama
-sentence-transformers>=2.2.0
+sentence-transformers>=6.0.1
