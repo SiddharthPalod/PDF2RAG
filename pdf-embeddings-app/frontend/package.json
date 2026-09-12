@@ -20,7 +20,7 @@
     "@vitejs/plugin-react": "^4.2.0",
     "concurrently": "^8.2.2",
     "cross-env": "^10.1.0",
-    "electron": "^30.5.1",
+    "electron": "^44.3.0",
     "electron-builder": "^24.13.3",
     "vite": "^5.0.0",
     "wait-on": "^9.1.0"
